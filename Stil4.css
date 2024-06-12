@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
+	color: #4800b7;
+	font-size: 28px;
+	background-color: white;
+	padding: 25px;
+	border: 4px;
+	border-radius: 20px;
+	padding: 15px;
+}
+
+body {
+	background-image: url("Paula_Veza_projektni_zadatak3/Slike/flowers-4931217_1280.png");
+	background-color: #e6e7ff;
+}
+
+p {
+	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
+	color: #4800b7;
+	font-size: 18px;
+	background-color: white;
+	padding: 10px;
+	border: 2px;
+	border-radius: 18px;
+	padding: 15px;
+}

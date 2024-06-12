@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	color: burgundy;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 17px;
+	line-height: 18px;
+	width: 1470px;
+	background-color: white;
+	padding: 20px;
+}
+
+h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
+	color: #4800b7;
+	font-size: 28px;
+	background-color: white;
+	padding: 25px;
+	border: 4px;
+	border-radius: 20px;
+	padding: 15px;
+}
+
+h3 {
+	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
+	color: #7658c0;
+}
+
+p{
+	font-family: Gotham, "Helvetica Neue", Helvetica Arial, "sans-serif";
+	color: #4800b7;
+}
+
+body {
+	background-color: #e6e7ff;
+}

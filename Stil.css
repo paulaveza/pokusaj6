@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+   color: darkblue;
+   font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+   font-size: 17px;
+   line-height: 18px;
+   width: 900px;
+   background-color: white;
+   padding: 20px;
+	border: 2px;
+	border-radius: 20px;
+	padding: 10px;
+	opacity: 0.9;
+}
+
+body{
+	background-image: url("Paula_Veza_projektni_zadatak3/Slike/flowers-4931217_1280.png");
+	background-color: #e6e7ff;
+}
